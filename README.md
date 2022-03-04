@@ -1,0 +1,2 @@
+# Kondiprojekt
+ iskolai projekt munka
